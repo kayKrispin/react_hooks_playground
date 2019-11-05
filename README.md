@@ -1,4 +1,3 @@
-# react_hooks_playground
 react_hooks_playground
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
